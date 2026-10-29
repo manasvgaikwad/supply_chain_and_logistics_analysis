@@ -125,6 +125,7 @@ CSV  ->  Python (clean, features, EDA)  ->  MySQL (schema, analysis, views)  -> 
 
 ## 10. Repository structure
 
+
 ```
 notebooks/   data_co_supply.ipynb      cleaning, features, EDA, export to MySQL
 sql/         sql_dataco.sql            schema, quality checks, analysis, window functions, views
