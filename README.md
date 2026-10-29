@@ -13,7 +13,7 @@ DataCo ships sports, apparel and electronics products to customers across five m
 - **Delivery:** a large share of orders ship later than scheduled, and it is unclear where.
 - **Profit:** about one in five order lines loses money, and it is unclear which products and categories cause it.
 
-This project answers both questions and turns the answers into recommendations. The full requirements are in [`docs/BRD.pdf`](docs/BRD.pdf).
+This project answers both questions and turns the answers into recommendations.
 
 ## 2. Dataset
 
