@@ -121,8 +121,7 @@ CSV  ->  Python (clean, features, EDA)  ->  MySQL (schema, analysis, views)  -> 
 
 | Overview | Delivery | Profitability |
 |---|---|---|
-| ![Overview](dashboard/screenshots/overview.png) | ![Delivery](dashboard/screenshots/delivery.png) | ![Profitability](dashboard/screenshots/profitability.png) |
-
+| ![Overview](overview.png) | ![Delivery](delivery.png) | ![Profitability](profitability.png) |
 ## 10. Repository structure
 
 
